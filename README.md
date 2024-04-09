@@ -15,5 +15,8 @@ O projeto "Desafio de Conta Bancária" é um programa em Java desenvolvido como 
    - Adicionado verificação para garantir que as entradas do usuário sejam válidas antes de prosseguir.
    - Utilização de `hasNextInt()` e `hasNextDouble()` para prevenir exceções ao receber entradas inválidas.
    - Limpeza do buffer do scanner (`leitura.next();`) em caso de entrada inválida.
-  
+
+---
+
+Este projeto foi desenvolvido como parte do desafio proposto pela Alura + Oracle. Sinta-se à vontade para explorar, testar e contribuir com o código!  
 
