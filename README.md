@@ -1,6 +1,10 @@
-# Desafio Conta Bancaria
- O projeto "Desafio de Conta Bancária" é um programa em Java desenvolvido para simular as operações básicas de uma conta bancária. Criado como parte de um desafio de programação, este programa permite que o usuário consulte o saldo atual da conta, realize transferências de valores para outras contas e receba valores em sua conta.
- O programa oferece uma interface simples e intuitiva, com um menu interativo que guia o usuário através das diferentes opções disponíveis. As melhorias recentemente implementadas focam na legibilidade do menu e na robustez da entrada de dados, garantindo uma experiência de usuário mais agradável e confiável.
+## Descrição do Projeto
+
+O projeto "Desafio de Conta Bancária" é um programa em Java desenvolvido como parte de um desafio de programação. Originalmente criado pela talentosa instrutora da Alura, [Jacqueline Oliveira](https://github.com/jacqueline-oliveira), o programa simula as operações básicas de uma conta bancária, incluindo consulta de saldo, transferência de valores e recebimento de valores. O programa oferece uma interface simples e intuitiva, com um menu interativo que guia o usuário através das diferentes opções disponíveis. Posteriormente, foram realizadas melhorias no código para aprimorar a legibilidade do menu e a robustez da entrada de dados. Estas melhorias foram implementadas para garantir uma experiência de usuário mais agradável e confiável.
+
+---
+
+Você pode substituir a descrição anterior no seu arquivo `README.md` pela nova descrição acima. Agora a descrição destaca a contribuição da instrutora Jacqueline Oliveira no desenvolvimento do código original e a sua própria contribuição nas melhorias implementadas.
 
 ## Funcionalidades
 
